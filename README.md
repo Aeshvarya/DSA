@@ -33,6 +33,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aeshvarya/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/Aeshvarya/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aeshvarya/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aeshvarya/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -49,4 +50,12 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aeshvarya/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aeshvarya/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aeshvarya/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
