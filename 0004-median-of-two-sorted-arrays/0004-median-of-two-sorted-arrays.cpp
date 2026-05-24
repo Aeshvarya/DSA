@@ -2,36 +2,51 @@ class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
 
-        vector<int> ans;
+        int n1 = nums1.size();
+        int n2 = nums2.size();
+        int total = n1 + n2;
+        int i=0,j=0;
+        int index1 = (total - 1) / 2;
+        int index2 = total / 2;
 
-        int i = 0;
-        int j = 0;
-        while(i < nums1.size() && j < nums2.size()) {
+        int element1 = 0;
+        int element2 = 0;
+
+        int count = 0;
+
+        while(i < n1 && j < n2) {
+
+            int val;
 
             if(nums1[i] < nums2[j]) {
-                ans.push_back(nums1[i]);
+                val = nums1[i];
                 i++;
             }
             else {
-                ans.push_back(nums2[j]);
+                val = nums2[j];
                 j++;
             }
+
+            if(count == index1) element1 = val;
+            if(count == index2) element2 = val;
+
+            count++;
         }
 
-        while(i < nums1.size()) {
-            ans.push_back(nums1[i]);
+        while(i < n1) {
+             if(count == index1) element1 = nums1[i];
+            if(count == index2) element2 = nums1[i];
             i++;
+            count++;
         }
+        while(j < n2) {
 
-        while(j < nums2.size()) {
-            ans.push_back(nums2[j]);
+            if(count == index1) element1 = nums2[j];
+     if(count == index2) element2 = nums2[j];
+
             j++;
+           count++;
         }
-
-        int n = ans.size();
-        if(n % 2 == 1) {
-            return ans[n/2];
-        }
-        return (ans[n/2] + ans[n/2 - 1]) / 2.0;
+        return (element1 + element2) / 2.0;
     }
 };
