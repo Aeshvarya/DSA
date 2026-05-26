@@ -4,23 +4,25 @@ public:
         if(nums.size()==0){
              return 0;
         }
+        unordered_set<int>st;
         int ct=1;
-        int strt=nums[0];
+        int x;
         int maxi=1;
-        sort(nums.begin(),nums.end());
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==strt+1){
-                strt=nums[i];
+    for(int i=0;i<nums.size();i++){
+        st.insert(nums[i]);
+    }
+
+    for(auto it : st){
+         if(st.find(it-1)==st.end()){
+            ct=1;
+            x=it;
+            while(st.find(x+1)!=st.end()){
                 ct++;
-            } else if(nums[i]==strt){
-                    continue;
+                x++;
             }
-            else {
-                ct=1;
-                strt=nums[i];
-            }
-            maxi=max(ct,maxi);
-        }
+         }
+         maxi=max(ct,maxi);
+    }
     return maxi;
     }
 };
