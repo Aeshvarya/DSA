@@ -36,6 +36,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0004-median-of-two-sorted-arrays](https://github.com/Aeshvarya/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/Aeshvarya/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Aeshvarya/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Aeshvarya/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aeshvarya/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aeshvarya/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aeshvarya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -52,6 +53,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Aeshvarya/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aeshvarya/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Aeshvarya/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Aeshvarya/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aeshvarya/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Math
 | Problem Name | Difficulty |
