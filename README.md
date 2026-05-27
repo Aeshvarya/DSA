@@ -35,6 +35,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aeshvarya/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/Aeshvarya/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/Aeshvarya/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aeshvarya/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aeshvarya/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aeshvarya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -72,5 +73,10 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Aeshvarya/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aeshvarya/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Aeshvarya/DSA/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
