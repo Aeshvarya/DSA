@@ -38,6 +38,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0048-rotate-image](https://github.com/Aeshvarya/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aeshvarya/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aeshvarya/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0118-pascals-triangle](https://github.com/Aeshvarya/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aeshvarya/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aeshvarya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aeshvarya/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -45,6 +46,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Aeshvarya/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aeshvarya/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
