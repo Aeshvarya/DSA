@@ -34,6 +34,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aeshvarya/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/Aeshvarya/DSA/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Aeshvarya/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Aeshvarya/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aeshvarya/DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -52,6 +53,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Aeshvarya/DSA/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Aeshvarya/DSA/tree/main/0031-next-permutation/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aeshvarya/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
@@ -95,6 +97,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Aeshvarya/DSA/tree/main/0015-3sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/Aeshvarya/DSA/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
