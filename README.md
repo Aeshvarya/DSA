@@ -41,6 +41,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0054-spiral-matrix](https://github.com/Aeshvarya/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Aeshvarya/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Aeshvarya/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Aeshvarya/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aeshvarya/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aeshvarya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -58,6 +59,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0015-3sum](https://github.com/Aeshvarya/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aeshvarya/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Aeshvarya/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aeshvarya/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0015-3sum](https://github.com/Aeshvarya/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aeshvarya/DSA/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Aeshvarya/DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aeshvarya/DSA/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
