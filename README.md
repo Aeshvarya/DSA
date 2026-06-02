@@ -46,6 +46,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aeshvarya/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Aeshvarya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0229-majority-element-ii](https://github.com/Aeshvarya/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Aeshvarya/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aeshvarya/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
@@ -70,10 +71,12 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aeshvarya/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aeshvarya/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +114,20 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Aeshvarya/DSA/tree/main/0229-majority-element-ii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
