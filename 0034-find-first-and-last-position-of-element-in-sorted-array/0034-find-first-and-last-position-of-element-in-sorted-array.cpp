@@ -47,9 +47,10 @@ public:
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        int first = firstb(nums, target);
-        int last = lastb(nums, target);
+        vector<int>ans;
+        ans.push_back(firstb(nums, target));
+        ans.push_back(lastb(nums, target));
 
-        return {first, last};
+        return ans;
     }
 };
