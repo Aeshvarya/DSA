@@ -105,6 +105,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Aeshvarya/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Aeshvarya/DSA/tree/main/0048-rotate-image/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
