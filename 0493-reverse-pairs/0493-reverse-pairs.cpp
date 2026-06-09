@@ -27,25 +27,25 @@ public:
         }
     }
 
-    int countp(vector<int> &nums,int low,int mid,int high){
-        int ct=0;
+    int cnountp(vector<int> &nums,int low,int mid,int high){
+        int cnt=0;
         int right=mid+1;
         for(int i=low;i<=mid;i++){
                 while(right<=high && (long long)nums[i]>2*(long long)nums[right])right++;
-                ct=ct+(right-(mid+1));
+                cnt=cnt+(right-(mid+1));
         }
-        return ct;
+        return cnt;
     }
 
     int mergee(vector<int> &nums,int low,int high){
-        int ct=0;
-        if(low>=high)return ct;
+        int cnt=0;
+        if(low>=high)return cnt;
         int mid=(low+high)/2;
-        ct+=mergee(nums,low, mid);
-        ct+=mergee(nums,mid+1, high);
-        ct+=countp(nums,low,mid,high);
+        cnt+=mergee(nums,low, mid);
+        cnt+=mergee(nums,mid+1, high);
+        cnt+=cnountp(nums,low,mid,high);
         sortt(nums,low, mid,high);
-        return ct;
+        return cnt;
     }
 
     int reversePairs(vector<int>& nums) {
