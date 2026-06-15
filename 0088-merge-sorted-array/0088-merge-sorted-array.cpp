@@ -1,12 +1,12 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int right=0,left=m-1;
-           while(right<n && left>=0){
-            if(nums1[left]>nums2[right]){
-                swap(nums1[left],nums2[right]);
-                right++;
-                left--;
+        int r=0,l=m-1;
+           while(r<n && l>=0){
+            if(nums1[l]>nums2[r]){
+                swap(nums1[l],nums2[r]);
+                r++;
+                l--;
             } else{
                 break;
             }
