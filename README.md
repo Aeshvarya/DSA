@@ -57,6 +57,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0540-single-element-in-a-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aeshvarya/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Aeshvarya/DSA/tree/main/0704-binary-search/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Aeshvarya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aeshvarya/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0056-merge-intervals](https://github.com/Aeshvarya/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aeshvarya/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Aeshvarya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +151,12 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Aeshvarya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Aeshvarya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
