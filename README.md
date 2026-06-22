@@ -57,6 +57,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0540-single-element-in-a-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aeshvarya/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Aeshvarya/DSA/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Aeshvarya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aeshvarya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aeshvarya/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Aeshvarya/DSA/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Aeshvarya/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
