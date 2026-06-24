@@ -21,8 +21,10 @@ public:
         if(weights[i]<=cwt){
             cwt-=weights[i];
         } else{
+
             day++;
-            cwt = mid - weights[i];
+            cwt = mid;
+            i--;
         }
     }
     return day;
