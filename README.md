@@ -52,6 +52,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0152-maximum-product-subarray](https://github.com/Aeshvarya/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aeshvarya/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0217-contains-duplicate](https://github.com/Aeshvarya/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aeshvarya/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aeshvarya/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Aeshvarya/DSA/tree/main/0493-reverse-pairs/) | Hard |
@@ -114,6 +115,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aeshvarya/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Aeshvarya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/Aeshvarya/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aeshvarya/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aeshvarya/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aeshvarya/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -144,6 +146,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0018-4sum](https://github.com/Aeshvarya/DSA/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Aeshvarya/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/Aeshvarya/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aeshvarya/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aeshvarya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting
