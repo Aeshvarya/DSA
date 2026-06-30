@@ -1,6 +1,6 @@
 class Solution {
 public:
-   int maxp(vector<int>& weights){
+   int maxxx(vector<int>& weights){
     int maxx=0;
     for(int i=0;i<weights.size();i++){
         maxx=max(maxx,weights[i]);
@@ -30,7 +30,7 @@ public:
     return day;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int low=maxp(weights);
+        int low=maxxx(weights);
           int high=summ(weights);
         while(low<=high){
             int mid=(high+low)/2;
