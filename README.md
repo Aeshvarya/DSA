@@ -80,6 +80,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0018-4sum](https://github.com/Aeshvarya/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Aeshvarya/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aeshvarya/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Aeshvarya/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aeshvarya/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -182,5 +183,6 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Aeshvarya/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aeshvarya/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
