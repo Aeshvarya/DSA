@@ -1,16 +1,13 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        string ans;
-        for(int i=0;i<s.size();i++){
-            ans=s.substr(1);
-            ans+=s[0];
-            if(ans==goal){
+        string ans=s+s;
+        int leng=s.size();
+        for(int i=0;i<=s.size();i++){
+            if(ans.substr(i,leng)==goal){
                 return true;
-            } else{
-                s=ans;
             }
-        }  
-        return false;      
+        }
+        return false;
     }
 };
