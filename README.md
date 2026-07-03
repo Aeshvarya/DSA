@@ -184,10 +184,15 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Aeshvarya/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0796-rotate-string](https://github.com/Aeshvarya/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Aeshvarya/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Aeshvarya/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Aeshvarya/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Aeshvarya/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
