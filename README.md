@@ -135,6 +135,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Aeshvarya/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Aeshvarya/DSA/tree/main/0048-rotate-image/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Aeshvarya/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aeshvarya/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Aeshvarya/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Aeshvarya/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +189,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | [0796-rotate-string](https://github.com/Aeshvarya/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Aeshvarya/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Aeshvarya/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Aeshvarya/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
