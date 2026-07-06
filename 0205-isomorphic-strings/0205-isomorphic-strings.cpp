@@ -1,20 +1,19 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if(s.size()!=t.size())return false;
-        map<char,char>mpp1;
-        map<char,char>mpp2;
-        for(int i=0;i<s.size();i++){
-            char ch1=s[i];
-            char ch2=t[i];
-            if(mpp1.find(ch1)!=mpp1.end() && mpp1[ch1]!=ch2 
-            ||mpp2.find(ch2)!=mpp2.end() && mpp2[ch2]!=ch1)
-            {
+
+        vector<int> index1(256,0);
+        vector<int> index2(256,0);
+
+        for(int i=0;i<s.length();i++)
+        {
+            if(index1[s[i]]!=index2[t[i]]){
                 return false;
             }
-            mpp1[s[i]]=t[i];
-            mpp2[t[i]]=s[i];
+        
+        index1[s[i]]=i+1;
+        index2[t[i]]=i+1;
         }
-       return true;
+        return true;
     }
 };
