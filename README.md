@@ -117,6 +117,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aeshvarya/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Aeshvarya/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Aeshvarya/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aeshvarya/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Aeshvarya/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aeshvarya/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -188,6 +189,7 @@ Solving 150+ problems this summer. Auto-synced via LeetCode GitHub Sync extensio
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Aeshvarya/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Aeshvarya/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Aeshvarya/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0796-rotate-string](https://github.com/Aeshvarya/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Aeshvarya/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Aeshvarya/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
