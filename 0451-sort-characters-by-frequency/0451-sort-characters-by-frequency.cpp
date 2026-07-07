@@ -1,7 +1,7 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        vector<pair<char,int>>vec(126);
+        vector<pair<char,int>>vec(125);
         for(int i=0;i<s.size();i++){
             int freq=vec[s[i]].second;
             vec[s[i]]={s[i],freq+1};
@@ -13,11 +13,9 @@ public:
         sort(vec.begin(),vec.end(),comp);
 
     string ans="";
-    for(int i=0;i<126;i++){
+    for(int i=0;i<125;i++){
         if(vec[i].second>0){
-            char ch=vec[i].first;
-            int freq=vec[i].second;
-            string temp=string(freq,ch);
+            string temp=string(vec[i].second,vec[i].first);
             ans+=temp;
         }
     }
